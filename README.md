@@ -1,2 +1,5 @@
-in this dataset the model predict the food with more calorie. 
-the variable our model trying to predict is a string.
+I take this dataset from Kaggle.
+
+link of dataset : https://www.kaggle.com/datasets/starbucks/starbucks-menu
+
+We have 3 datasets. 2 are food and its extension and drinks dataset.
